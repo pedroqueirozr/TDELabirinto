@@ -1,0 +1,3 @@
+C:/Users/peter/CLionProjects/TDELabirinto/cmake-build-debug/CMakeFiles/TDELabirinto.dir
+C:/Users/peter/CLionProjects/TDELabirinto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/peter/CLionProjects/TDELabirinto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
