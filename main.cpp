@@ -39,7 +39,7 @@ int main(){
             "XXXXXXXXX     XXX  X",//4
             "X   XXX   XXXXX    X",//5
             "X            XXX  XX",//6
-            "XX XXXXXXXXXX     XX",//7
+            "XX XXXX XXXXX     XX",//7
             "X    X           XXX",//8
             "X   XXXX     XXX  XX",//9
             "XXXXX      XX     XX",//10
