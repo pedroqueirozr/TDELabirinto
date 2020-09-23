@@ -50,7 +50,7 @@ int main(){
             "X     XX   X       X",//15
             "XXX XX XX     XXXXXX",//16
             "X         XX   X   X",//17
-            "XXXXXXX   XXX  X   X",//18
+            "XX XXXX   XXX  X   X",//18
             "X    X  XXX    X   X",//19
             "XXXXXXXSXXXXXXXXXXXX"//20
     };
